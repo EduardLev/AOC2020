@@ -10,11 +10,11 @@ enum DayTwo {
     }
     
     let rules: [PasswordRules] = instructions.map {
-      let contents = $0.split(separator: " ")
-      let bounds = String(contents[0]).split(separator: "-").map(String.init).map(Int.init)
-      let range = bounds[0]!...bounds[1]!
-      let letter = Character(String(contents[1].dropLast()))
-      let password = String(contents[2])
+      let contents = $0.split(separator: " ") // 2-5 z: zzztvz
+      let bounds = String(contents[0]).split(separator: "-").map(String.init).map(Int.init) // 2-5
+      let range = bounds[0]!...bounds[1]! // 2...5
+      let letter = Character(String(contents[1].dropLast())) // z:
+      let password = String(contents[2]) // zzztvz
       
       return PasswordRules(range: range, letter: letter, password: password)
     }
