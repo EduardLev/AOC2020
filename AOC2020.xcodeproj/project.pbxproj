@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		343873A82576990F00CF52CB /* DayOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 343873A72576990F00CF52CB /* DayOne.swift */; };
 		3448520A2399F442006DE5C3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 344852092399F442006DE5C3 /* main.swift */; };
+		34F11B0C2577B8BE003BE36E /* DayTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F11B0B2577B8BE003BE36E /* DayTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,7 @@
 		344852062399F442006DE5C3 /* AOC2019 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AOC2019; sourceTree = BUILT_PRODUCTS_DIR; };
 		344852092399F442006DE5C3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		344852102399F48B006DE5C3 /* input.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = input.txt; sourceTree = "<group>"; };
+		34F11B0B2577B8BE003BE36E /* DayTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				344852092399F442006DE5C3 /* main.swift */,
 				343873A72576990F00CF52CB /* DayOne.swift */,
 				344852102399F48B006DE5C3 /* input.txt */,
+				34F11B0B2577B8BE003BE36E /* DayTwo.swift */,
 			);
 			path = AOC2020;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3448520A2399F442006DE5C3 /* main.swift in Sources */,
+				34F11B0C2577B8BE003BE36E /* DayTwo.swift in Sources */,
 				343873A82576990F00CF52CB /* DayOne.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
