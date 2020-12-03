@@ -1,11 +1,13 @@
 ---
+follows: ../../main.md
+
 id: "litvis"
 ---
 
 @import "../styles/litvis.less"
 
 ```elm {l=hidden}
-import Dict exposing (Dict)
+import Main exposing (..)
 ```
 
 # Puzzle input

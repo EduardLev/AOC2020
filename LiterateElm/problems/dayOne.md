@@ -10,7 +10,7 @@ id: "litvis"
 
 Experimenting with Literate Elm. First task was to figure out how to get started with "hello world" and what custom styles I want to use.
 
-```elm {l r}
+```elm {l  r}
 message : String
 message =
     "Hello, World"
@@ -48,21 +48,6 @@ answer =
 ### Part Two
 
 This one is more difficult because the above strategy will not work. I need to iterate through the same loop twice, getting all pairs of values.
-
-```elm {l}
-combinations : Int -> List Int -> List (List Int)
-combinations k items =
-  if k <= 0 then
-    [ [ ] ]
-
-  else
-    case items of
-      [] ->
-        []
-
-      head :: tail ->
-        List.map ((::) head) (combinations (k-1) tail) ++ combinations k tail
-```
 
 ```elm {l r}
 allCombinations: Maybe Int
