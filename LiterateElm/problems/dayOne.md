@@ -61,10 +61,6 @@ combinations k items =
                 []
 
             head :: tail ->
-                let
-                    appendedToAll item list =
-                        List.map ((::) item) list
-                in
                 List.map ((::) head) (combinations (k-1) tail) ++ combinations k tail
 ```
 
