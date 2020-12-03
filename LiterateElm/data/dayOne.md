@@ -7,12 +7,12 @@ id: "litvis"
 @import "../styles/litvis.less"
 
 ```elm {l=hidden}
-import Main exposing (..)
+import Dict exposing (Dict)
 ```
 
 # Puzzle input
 
-```elm {l r}
+```elm {l}
 puzzleInput : List Int
 puzzleInput =
     """997
