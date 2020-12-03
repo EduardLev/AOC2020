@@ -9,5 +9,5 @@ Literate Elm files are regular markdown files, but to get compilation and output
 | Day   |      |   |
 |-------|------|---|
 | 1 - Report Repair           | [Swift](AOC2020/DayOne.swift)       | [Elm](LiterateElm/problems/dayOne.md)  |
-| 2 - Password Philosophy     | [Swift](AOC2020/DayTwo.swift)       | [Elm](LiterateElm/problems/dayOne.md)  |
-| 3 - Toboggan Trajectory     | [Swift](AOC2020/DayTree.swift)      | [Elm](LiterateElm/problems/dayOne.md)  |
+| 2 - Password Philosophy     | [Swift](AOC2020/DayTwo.swift)       |                                        |
+| 3 - Toboggan Trajectory     | [Swift](AOC2020/DayTree.swift)      |                                        |
