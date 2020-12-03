@@ -10,6 +10,7 @@
 		343873A82576990F00CF52CB /* DayOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 343873A72576990F00CF52CB /* DayOne.swift */; };
 		3448520A2399F442006DE5C3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 344852092399F442006DE5C3 /* main.swift */; };
 		34F11B0C2577B8BE003BE36E /* DayTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F11B0B2577B8BE003BE36E /* DayTwo.swift */; };
+		D4B5EE7D2579172400492C0B /* DayThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B5EE7C2579172400492C0B /* DayThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +31,7 @@
 		344852092399F442006DE5C3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		344852102399F48B006DE5C3 /* input.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = input.txt; sourceTree = "<group>"; };
 		34F11B0B2577B8BE003BE36E /* DayTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwo.swift; sourceTree = "<group>"; };
+		D4B5EE7C2579172400492C0B /* DayThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				343873A72576990F00CF52CB /* DayOne.swift */,
 				344852102399F48B006DE5C3 /* input.txt */,
 				34F11B0B2577B8BE003BE36E /* DayTwo.swift */,
+				D4B5EE7C2579172400492C0B /* DayThree.swift */,
 			);
 			path = AOC2020;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 				3448520A2399F442006DE5C3 /* main.swift in Sources */,
 				34F11B0C2577B8BE003BE36E /* DayTwo.swift in Sources */,
 				343873A82576990F00CF52CB /* DayOne.swift in Sources */,
+				D4B5EE7D2579172400492C0B /* DayThree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,7 +258,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WU6V3AP57K;
+				DEVELOPMENT_TEAM = 3987LS8PQB;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -265,7 +269,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WU6V3AP57K;
+				DEVELOPMENT_TEAM = 3987LS8PQB;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
