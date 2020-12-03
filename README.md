@@ -1,9 +1,9 @@
 # AOC2020
+https://adventofcode.com
 Advent of code challenges for 2020
 
-In Swift and maybe Literate Elm
-
-https://adventofcode.com
+In Swift and maybe Literate Elm. 
+Literate Elm files are regular markdown files, but to get compilation and output behaviors, you will need to view them through Atom (my personal choice) or VSCode. More instructions at the [litvis repo](https://github.com/gicentre/litvis).
 
 | Day   |      |   |
 |-------|------|---|
