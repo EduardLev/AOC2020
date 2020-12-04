@@ -27,5 +27,5 @@ var instructions = input
 //    default: return -1
 //    }
 // print(DayThree.partTwo())
-print(DayFour.partOne())
-print(DayFour.partTwo())
+//print(DayFour.partOne())
+//print(DayFour.partTwo())
