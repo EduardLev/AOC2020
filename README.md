@@ -10,4 +10,5 @@ Literate Elm files are regular markdown files, but to get compilation and output
 |-------|------|---|
 | 1 - Report Repair           | [Swift](AOC2020/DayOne.swift)       | [Elm](LiterateElm/problems/dayOne.md)  |
 | 2 - Password Philosophy     | [Swift](AOC2020/DayTwo.swift)       |                                        |
-| 3 - Toboggan Trajectory     | [Swift](AOC2020/DayThree.swift)      |                                        |
+| 3 - Toboggan Trajectory     | [Swift](AOC2020/DayThree.swift)     |                                        |
+| 4 - Passport Processing     | [Swift](AOC2020/DayFour.swift)      |                                        |
