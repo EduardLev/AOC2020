@@ -12,4 +12,4 @@ Literate Elm files are regular markdown files, but to get compilation and output
 | 2 - Password Philosophy     | [Swift](AOC2020/DayTwo.swift)       |                                        |
 | 3 - Toboggan Trajectory     | [Swift](AOC2020/DayThree.swift)     |                                        |
 | 4 - Passport Processing     | [Swift](AOC2020/DayFour.swift)      |                                        |
-| 4 - Binary Boarding         | [Swift](AOC2020/DayFive.swift)      |                                        |
+| 5 - Binary Boarding         | [Swift](AOC2020/DayFive.swift)      |                                        |
