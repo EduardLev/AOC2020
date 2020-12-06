@@ -7,11 +7,7 @@ import Foundation
 let url = URL(fileURLWithPath: "/Users/eduardlev/repos/AOC2020/AOC2020/input.txt")
 let input = try! String(contentsOf: url)
 var instructions = input
-  .components(separatedBy: "\n")
-  .map { $0.replacingOccurrences(of: "F", with: "0") }
-  .map { $0.replacingOccurrences(of: "L", with: "0") }
-  .map { $0.replacingOccurrences(of: "B", with: "1") }
-  .map { $0.replacingOccurrences(of: "R", with: "1") }
+  .components(separatedBy: "\n\n")
 
 //DayOne.partOne() // .map { Int($0) } on input
 //DayOne.partTwo() // .map { Int($0) } on input
@@ -30,5 +26,7 @@ var instructions = input
 // print(DayThree.partTwo())
 //print(DayFour.partOne())
 //print(DayFour.partTwo())
-print(DayFive.partOne())
-print(DayFive.partTwo())
+//print(DayFive.partOne())
+//print(DayFive.partTwo())
+print(DaySix.partOne())
+print(DaySix.partTwo())
