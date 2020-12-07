@@ -14,4 +14,5 @@ Literate Elm files are regular markdown files, but to get compilation and output
 | 4 - Passport Processing     | [Swift](AOC2020/DayFour.swift)      |                                        |
 | 5 - Binary Boarding         | [Swift](AOC2020/DayFive.swift)      |                                        |
 | 6 - Custom Customs          | [Swift](AOC2020/DaySix.swift)       |                                        |
+| 6 - Handy Haversacks        | [Swift](AOC2020/DaySeven.swift)     |                                        |
 
