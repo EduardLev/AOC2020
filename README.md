@@ -15,4 +15,6 @@ Literate Elm files are regular markdown files, but to get compilation and output
 | 5 - Binary Boarding         | [Swift](AOC2020/DayFive.swift)      |                                        |
 | 6 - Custom Customs          | [Swift](AOC2020/DaySix.swift)       |                                        |
 | 7 - Handy Haversacks        | [Swift](AOC2020/DaySeven.swift)     |                                        |
+| 8 - Handheld Halting        | [Swift](AOC2020/DayEight.swift)     |                                        |
+| 9 - Encoding Error          | [Swift](AOC2020/DayNine.swift)      |                                        |
 
