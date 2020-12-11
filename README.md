@@ -17,4 +17,6 @@ Literate Elm files are regular markdown files, but to get compilation and output
 | 7 - Handy Haversacks        | [Swift](AOC2020/DaySeven.swift)     |                                        |
 | 8 - Handheld Halting        | [Swift](AOC2020/DayEight.swift)     |                                        |
 | 9 - Encoding Error          | [Swift](AOC2020/DayNine.swift)      |                                        |
+| 10 - Adapter Array          | [Swift](AOC2020/DayTen.swift)       |                                        |
+| 11 - Seating System         | [Swift](AOC2020/DayEleven.swift)    |                                        |
 
