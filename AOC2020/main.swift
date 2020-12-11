@@ -38,4 +38,5 @@ var instructions = input
 //print(DayNine.partTwo())
 //print(DayTen.partOne()) //   .components(separatedBy: "\n").dropLast()
 //print(DayTen.partTwo()) //   .components(separatedBy: "\n").dropLast()
-
+print(DayEleven.partOne())
+print(DayEleven.partTwo())
