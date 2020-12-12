@@ -19,4 +19,5 @@ Literate Elm files are regular markdown files, but to get compilation and output
 | 9 - Encoding Error          | [Swift](AOC2020/DayNine.swift)      |                                        |
 | 10 - Adapter Array          | [Swift](AOC2020/DayTen.swift)       |                                        |
 | 11 - Seating System         | [Swift](AOC2020/DayEleven.swift)    |                                        |
+| 12 - Rain Risk              | [Swift](AOC2020/DayTwelve.swift)    |                                        |
 
